@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: gray;
+    justify-items: center;
+}
+.photo {
+    border-radius: 50%;
+    height: 300px;
+    width: 200px;
+}
